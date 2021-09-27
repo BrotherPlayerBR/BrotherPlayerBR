@@ -4,7 +4,7 @@
 [![GitHub BrotherPlayerBR](https://img.shields.io/github/followers/BrotherPlayerBR)](https://github.com/BrotherPlayeBR)
 
 
-<p align="center">Aspirante a desenvolvedor Full Stack, pelo projeto <a href="https://sejaalphaedtech.org.br/%22%3EAlpha EdTech</a>  do Instituto Alpha Lumen</p></br>
+<p align="center">Aspirante a desenvolvedor Full Stack, pelo projeto <a href="https://sejaalphaedtech.org.br"> Alpha Edtech </a> do Instituto Alpha Lumen</p></br>
 
 
 const fulano = {
