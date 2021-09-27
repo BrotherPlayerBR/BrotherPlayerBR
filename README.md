@@ -6,6 +6,7 @@
 
 <p align="center">Aspirante a desenvolvedor Full Stack, pelo projeto <a href="https://sejaalphaedtech.org.br"> Alpha Edtech </a> do Instituto Alpha Lumen</p></br>
 
+```javascript
 
 const fulano = {
   pronouns: "she" | "her",
@@ -20,3 +21,5 @@ const fulano = {
   funFact: "Eu tenho bugs de estimação"
 
 }   
+```
+---
