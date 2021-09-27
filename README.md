@@ -9,7 +9,7 @@
 ```javascript
 
 const fulano = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Styled-Components, Jest],
   architecture: ["microservices", "event-driven", "design system pattern"],
